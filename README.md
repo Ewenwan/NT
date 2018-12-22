@@ -16,3 +16,7 @@ new technique
     加密
     计算
     传输
+    
+# 现代支付系统 互联网金融
+[参考  支付风控 P2P 区块链技术学习](http://doc.cocolian.cn/)
+[可可链](https://github.com/cocolian)
